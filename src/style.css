@@ -1,0 +1,42 @@
+.container {
+  text-align: center;
+  color: whitesmoke;
+  background-image: url("http://www.travelstart.co.za/blog/wp-content/uploads/2018/09/visit-philippines-secluded-beach.jpg");
+  background-position: 100%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 20px;
+  border: 10px solid whitesmoke;
+}
+h2 {
+  text-align: left;
+}
+p {
+  text-align: left;
+  font-weight: 500;
+  font-style: italic;
+  font-size: large;
+}
+h4 {
+  text-align: right;
+}
+
+.row {
+  border-right: 1px dashed #251f44;
+  background-color: transparent;
+  margin-bottom: 5%;
+}
+.changecitybutton {
+  border: 2px solid #251f44;
+  background-color: black;
+  color: turquoise;
+  transition: all 200ms linear;
+  cursor: pointer;
+  border-radius: 15px;
+  border: 3px solid white;
+}
+.changecityinput {
+  border: 4px solid black;
+  border-top: 3px solid white;
+  border-left: 3px solid white;
+}
